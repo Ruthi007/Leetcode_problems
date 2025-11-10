@@ -6,5 +6,14 @@ Problems that I have solved on leetcode for practice...
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Ruthi007/Leetcode_problems/tree/master/0078-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Ruthi007/Leetcode_problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
+## Array
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Ruthi007/Leetcode_problems/tree/master/0078-subsets) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Ruthi007/Leetcode_problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
