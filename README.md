@@ -9,6 +9,7 @@ Problems that I have solved on leetcode for practice...
 | [0078-subsets](https://github.com/Ruthi007/Leetcode_problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Ruthi007/Leetcode_problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Ruthi007/Leetcode_problems/tree/master/0137-single-number-ii) |
+| [1610-xor-operation-in-an-array](https://github.com/Ruthi007/Leetcode_problems/tree/master/1610-xor-operation-in-an-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Ruthi007/Leetcode_problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Array
 |  |
@@ -20,4 +21,8 @@ Problems that I have solved on leetcode for practice...
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Ruthi007/Leetcode_problems/tree/master/0078-subsets) |
+## Math
+|  |
+| ------- |
+| [1610-xor-operation-in-an-array](https://github.com/Ruthi007/Leetcode_problems/tree/master/1610-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
