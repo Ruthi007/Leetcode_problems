@@ -3,9 +3,7 @@ class Solution:
         res=0
         if (dividend==divisor): return 1
         sign=1
-        if dividend<0 and divisor>=0:
-            sign=-1
-        elif dividend>=0 and divisor<0:
+        if (dividend<0) ^ (divisor<0):
             sign=-1
         n=abs(dividend)
         d=abs(divisor)
