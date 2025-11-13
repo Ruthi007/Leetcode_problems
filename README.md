@@ -10,6 +10,7 @@ Problems that I have solved on leetcode for practice...
 | [0078-subsets](https://github.com/Ruthi007/Leetcode_problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Ruthi007/Leetcode_problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Ruthi007/Leetcode_problems/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/Ruthi007/Leetcode_problems/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/Ruthi007/Leetcode_problems/tree/master/0260-single-number-iii) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ruthi007/Leetcode_problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/Ruthi007/Leetcode_problems/tree/master/1610-xor-operation-in-an-array) |
@@ -31,4 +32,8 @@ Problems that I have solved on leetcode for practice...
 | [0029-divide-two-integers](https://github.com/Ruthi007/Leetcode_problems/tree/master/0029-divide-two-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ruthi007/Leetcode_problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/Ruthi007/Leetcode_problems/tree/master/1610-xor-operation-in-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Ruthi007/Leetcode_problems/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
