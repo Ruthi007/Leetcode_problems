@@ -22,6 +22,7 @@ Problems that I have solved on leetcode for practice...
 | [0136-single-number](https://github.com/Ruthi007/Leetcode_problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Ruthi007/Leetcode_problems/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Ruthi007/Leetcode_problems/tree/master/0260-single-number-iii) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Ruthi007/Leetcode_problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Backtracking
 |  |
 | ------- |
