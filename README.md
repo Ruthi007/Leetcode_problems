@@ -18,6 +18,7 @@ Problems that I have solved on leetcode for practice...
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Ruthi007/Leetcode_problems/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Ruthi007/Leetcode_problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Ruthi007/Leetcode_problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Ruthi007/Leetcode_problems/tree/master/0137-single-number-ii) |
@@ -37,4 +38,12 @@ Problems that I have solved on leetcode for practice...
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Ruthi007/Leetcode_problems/tree/master/0191-number-of-1-bits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Ruthi007/Leetcode_problems/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Ruthi007/Leetcode_problems/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
