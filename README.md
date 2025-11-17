@@ -20,6 +20,7 @@ Problems that I have solved on leetcode for practice...
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ruthi007/Leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0055-jump-game](https://github.com/Ruthi007/Leetcode_problems/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/Ruthi007/Leetcode_problems/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Ruthi007/Leetcode_problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Ruthi007/Leetcode_problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Ruthi007/Leetcode_problems/tree/master/0137-single-number-ii) |
