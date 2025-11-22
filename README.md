@@ -28,6 +28,7 @@ Problems that I have solved on leetcode for practice...
 | [0260-single-number-iii](https://github.com/Ruthi007/Leetcode_problems/tree/master/0260-single-number-iii) |
 | [0289-game-of-life](https://github.com/Ruthi007/Leetcode_problems/tree/master/0289-game-of-life) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Ruthi007/Leetcode_problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ruthi007/Leetcode_problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Backtracking
 |  |
 | ------- |
@@ -38,6 +39,7 @@ Problems that I have solved on leetcode for practice...
 | [0029-divide-two-integers](https://github.com/Ruthi007/Leetcode_problems/tree/master/0029-divide-two-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ruthi007/Leetcode_problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/Ruthi007/Leetcode_problems/tree/master/1610-xor-operation-in-an-array) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ruthi007/Leetcode_problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Divide and Conquer
 |  |
 | ------- |
