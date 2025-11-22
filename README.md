@@ -46,6 +46,7 @@ Problems that I have solved on leetcode for practice...
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Ruthi007/Leetcode_problems/tree/master/0055-jump-game) |
+| [0392-is-subsequence](https://github.com/Ruthi007/Leetcode_problems/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -54,6 +55,7 @@ Problems that I have solved on leetcode for practice...
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ruthi007/Leetcode_problems/tree/master/0014-longest-common-prefix) |
+| [0392-is-subsequence](https://github.com/Ruthi007/Leetcode_problems/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
 | ------- |
@@ -71,4 +73,8 @@ Problems that I have solved on leetcode for practice...
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/Ruthi007/Leetcode_problems/tree/master/0289-game-of-life) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Ruthi007/Leetcode_problems/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
