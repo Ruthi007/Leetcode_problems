@@ -25,6 +25,7 @@ Problems that I have solved on leetcode for practice...
 | [0078-subsets](https://github.com/Ruthi007/Leetcode_problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Ruthi007/Leetcode_problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Ruthi007/Leetcode_problems/tree/master/0137-single-number-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/Ruthi007/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Ruthi007/Leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Ruthi007/Leetcode_problems/tree/master/0260-single-number-iii) |
 | [0289-game-of-life](https://github.com/Ruthi007/Leetcode_problems/tree/master/0289-game-of-life) |
@@ -83,5 +84,14 @@ Problems that I have solved on leetcode for practice...
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Ruthi007/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Ruthi007/Leetcode_problems/tree/master/0238-product-of-array-except-self) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Ruthi007/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Ruthi007/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
