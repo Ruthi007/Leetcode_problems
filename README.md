@@ -40,6 +40,7 @@ Problems that I have solved on leetcode for practice...
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ruthi007/Leetcode_problems/tree/master/0029-divide-two-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ruthi007/Leetcode_problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ruthi007/Leetcode_problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1610-xor-operation-in-an-array](https://github.com/Ruthi007/Leetcode_problems/tree/master/1610-xor-operation-in-an-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ruthi007/Leetcode_problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Divide and Conquer
