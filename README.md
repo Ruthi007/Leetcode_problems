@@ -29,6 +29,7 @@ Problems that I have solved on leetcode for practice...
 | [0238-product-of-array-except-self](https://github.com/Ruthi007/Leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Ruthi007/Leetcode_problems/tree/master/0260-single-number-iii) |
 | [0289-game-of-life](https://github.com/Ruthi007/Leetcode_problems/tree/master/0289-game-of-life) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ruthi007/Leetcode_problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Ruthi007/Leetcode_problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ruthi007/Leetcode_problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Backtracking
@@ -56,6 +57,7 @@ Problems that I have solved on leetcode for practice...
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Ruthi007/Leetcode_problems/tree/master/0055-jump-game) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ruthi007/Leetcode_problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## String
 |  |
 | ------- |
@@ -101,4 +103,8 @@ Problems that I have solved on leetcode for practice...
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ruthi007/Leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ruthi007/Leetcode_problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 <!---LeetCode Topics End-->
