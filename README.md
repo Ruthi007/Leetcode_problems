@@ -64,6 +64,7 @@ Problems that I have solved on leetcode for practice...
 | [0014-longest-common-prefix](https://github.com/Ruthi007/Leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ruthi007/Leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0392-is-subsequence](https://github.com/Ruthi007/Leetcode_problems/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/Ruthi007/Leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
 ## Trie
 |  |
 | ------- |
@@ -72,6 +73,7 @@ Problems that I have solved on leetcode for practice...
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Ruthi007/Leetcode_problems/tree/master/0036-valid-sudoku) |
+| [0424-longest-repeating-character-replacement](https://github.com/Ruthi007/Leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
 ## Matrix
 |  |
 | ------- |
@@ -99,6 +101,7 @@ Problems that I have solved on leetcode for practice...
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ruthi007/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Ruthi007/Leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
 ## String Matching
 |  |
 | ------- |
