@@ -18,6 +18,7 @@ Problems that I have solved on leetcode for practice...
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ruthi007/Leetcode_problems/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Ruthi007/Leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0036-valid-sudoku](https://github.com/Ruthi007/Leetcode_problems/tree/master/0036-valid-sudoku) |
 | [0055-jump-game](https://github.com/Ruthi007/Leetcode_problems/tree/master/0055-jump-game) |
@@ -72,6 +73,7 @@ Problems that I have solved on leetcode for practice...
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ruthi007/Leetcode_problems/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Ruthi007/Leetcode_problems/tree/master/0036-valid-sudoku) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ruthi007/Leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
 ## Matrix
