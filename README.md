@@ -31,6 +31,7 @@ Problems that I have solved on leetcode for practice...
 | [0260-single-number-iii](https://github.com/Ruthi007/Leetcode_problems/tree/master/0260-single-number-iii) |
 | [0289-game-of-life](https://github.com/Ruthi007/Leetcode_problems/tree/master/0289-game-of-life) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ruthi007/Leetcode_problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0560-subarray-sum-equals-k](https://github.com/Ruthi007/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Ruthi007/Leetcode_problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ruthi007/Leetcode_problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Backtracking
@@ -76,6 +77,7 @@ Problems that I have solved on leetcode for practice...
 | [0001-two-sum](https://github.com/Ruthi007/Leetcode_problems/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Ruthi007/Leetcode_problems/tree/master/0036-valid-sudoku) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ruthi007/Leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/Ruthi007/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
 | ------- |
@@ -95,6 +97,7 @@ Problems that I have solved on leetcode for practice...
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ruthi007/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Ruthi007/Leetcode_problems/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Ruthi007/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |
