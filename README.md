@@ -32,6 +32,7 @@ Problems that I have solved on leetcode for practice...
 | [0289-game-of-life](https://github.com/Ruthi007/Leetcode_problems/tree/master/0289-game-of-life) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ruthi007/Leetcode_problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0560-subarray-sum-equals-k](https://github.com/Ruthi007/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
+| [0912-sort-an-array](https://github.com/Ruthi007/Leetcode_problems/tree/master/0912-sort-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Ruthi007/Leetcode_problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ruthi007/Leetcode_problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Backtracking
@@ -50,6 +51,7 @@ Problems that I have solved on leetcode for practice...
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Ruthi007/Leetcode_problems/tree/master/0191-number-of-1-bits) |
+| [0912-sort-an-array](https://github.com/Ruthi007/Leetcode_problems/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -115,4 +117,25 @@ Problems that I have solved on leetcode for practice...
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ruthi007/Leetcode_problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0912-sort-an-array](https://github.com/Ruthi007/Leetcode_problems/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Ruthi007/Leetcode_problems/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Ruthi007/Leetcode_problems/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Ruthi007/Leetcode_problems/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Ruthi007/Leetcode_problems/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Ruthi007/Leetcode_problems/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
