@@ -67,6 +67,7 @@ Problems that I have solved on leetcode for practice...
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ruthi007/Leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ruthi007/Leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0383-ransom-note](https://github.com/Ruthi007/Leetcode_problems/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Ruthi007/Leetcode_problems/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ruthi007/Leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
 ## Trie
@@ -78,6 +79,7 @@ Problems that I have solved on leetcode for practice...
 | ------- |
 | [0001-two-sum](https://github.com/Ruthi007/Leetcode_problems/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Ruthi007/Leetcode_problems/tree/master/0036-valid-sudoku) |
+| [0383-ransom-note](https://github.com/Ruthi007/Leetcode_problems/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ruthi007/Leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Ruthi007/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
@@ -137,5 +139,6 @@ Problems that I have solved on leetcode for practice...
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Ruthi007/Leetcode_problems/tree/master/0383-ransom-note) |
 | [0912-sort-an-array](https://github.com/Ruthi007/Leetcode_problems/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
