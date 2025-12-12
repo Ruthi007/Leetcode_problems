@@ -33,6 +33,7 @@ Problems that I have solved on leetcode for practice...
 | [0334-increasing-triplet-subsequence](https://github.com/Ruthi007/Leetcode_problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ruthi007/Leetcode_problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0560-subarray-sum-equals-k](https://github.com/Ruthi007/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/Ruthi007/Leetcode_problems/tree/master/0605-can-place-flowers) |
 | [0912-sort-an-array](https://github.com/Ruthi007/Leetcode_problems/tree/master/0912-sort-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Ruthi007/Leetcode_problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ruthi007/Leetcode_problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -64,6 +65,7 @@ Problems that I have solved on leetcode for practice...
 | [0055-jump-game](https://github.com/Ruthi007/Leetcode_problems/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/Ruthi007/Leetcode_problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ruthi007/Leetcode_problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0605-can-place-flowers](https://github.com/Ruthi007/Leetcode_problems/tree/master/0605-can-place-flowers) |
 ## String
 |  |
 | ------- |
