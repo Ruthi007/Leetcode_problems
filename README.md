@@ -30,6 +30,7 @@ Problems that I have solved on leetcode for practice...
 | [0238-product-of-array-except-self](https://github.com/Ruthi007/Leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Ruthi007/Leetcode_problems/tree/master/0260-single-number-iii) |
 | [0289-game-of-life](https://github.com/Ruthi007/Leetcode_problems/tree/master/0289-game-of-life) |
+| [0334-increasing-triplet-subsequence](https://github.com/Ruthi007/Leetcode_problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ruthi007/Leetcode_problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0560-subarray-sum-equals-k](https://github.com/Ruthi007/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0912-sort-an-array](https://github.com/Ruthi007/Leetcode_problems/tree/master/0912-sort-an-array) |
@@ -61,6 +62,7 @@ Problems that I have solved on leetcode for practice...
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Ruthi007/Leetcode_problems/tree/master/0055-jump-game) |
+| [0334-increasing-triplet-subsequence](https://github.com/Ruthi007/Leetcode_problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ruthi007/Leetcode_problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## String
 |  |
