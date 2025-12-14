@@ -35,6 +35,7 @@ Problems that I have solved on leetcode for practice...
 | [0560-subarray-sum-equals-k](https://github.com/Ruthi007/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Ruthi007/Leetcode_problems/tree/master/0605-can-place-flowers) |
 | [0912-sort-an-array](https://github.com/Ruthi007/Leetcode_problems/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Ruthi007/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Ruthi007/Leetcode_problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ruthi007/Leetcode_problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Backtracking
@@ -100,6 +101,7 @@ Problems that I have solved on leetcode for practice...
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ruthi007/Leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0392-is-subsequence](https://github.com/Ruthi007/Leetcode_problems/tree/master/0392-is-subsequence) |
+| [0977-squares-of-a-sorted-array](https://github.com/Ruthi007/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -124,6 +126,7 @@ Problems that I have solved on leetcode for practice...
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ruthi007/Leetcode_problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0912-sort-an-array](https://github.com/Ruthi007/Leetcode_problems/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Ruthi007/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
