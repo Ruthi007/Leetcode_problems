@@ -34,6 +34,7 @@ Problems that I have solved on leetcode for practice...
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ruthi007/Leetcode_problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0560-subarray-sum-equals-k](https://github.com/Ruthi007/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Ruthi007/Leetcode_problems/tree/master/0605-can-place-flowers) |
+| [0845-longest-mountain-in-array](https://github.com/Ruthi007/Leetcode_problems/tree/master/0845-longest-mountain-in-array) |
 | [0912-sort-an-array](https://github.com/Ruthi007/Leetcode_problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ruthi007/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Ruthi007/Leetcode_problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -60,6 +61,7 @@ Problems that I have solved on leetcode for practice...
 | ------- |
 | [0055-jump-game](https://github.com/Ruthi007/Leetcode_problems/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/Ruthi007/Leetcode_problems/tree/master/0392-is-subsequence) |
+| [0845-longest-mountain-in-array](https://github.com/Ruthi007/Leetcode_problems/tree/master/0845-longest-mountain-in-array) |
 ## Greedy
 |  |
 | ------- |
@@ -101,6 +103,7 @@ Problems that I have solved on leetcode for practice...
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ruthi007/Leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0392-is-subsequence](https://github.com/Ruthi007/Leetcode_problems/tree/master/0392-is-subsequence) |
+| [0845-longest-mountain-in-array](https://github.com/Ruthi007/Leetcode_problems/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ruthi007/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
@@ -148,4 +151,8 @@ Problems that I have solved on leetcode for practice...
 | ------- |
 | [0383-ransom-note](https://github.com/Ruthi007/Leetcode_problems/tree/master/0383-ransom-note) |
 | [0912-sort-an-array](https://github.com/Ruthi007/Leetcode_problems/tree/master/0912-sort-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/Ruthi007/Leetcode_problems/tree/master/0845-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
