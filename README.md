@@ -35,6 +35,7 @@ Problems that I have solved on leetcode for practice...
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ruthi007/Leetcode_problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0560-subarray-sum-equals-k](https://github.com/Ruthi007/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Ruthi007/Leetcode_problems/tree/master/0605-can-place-flowers) |
+| [0739-daily-temperatures](https://github.com/Ruthi007/Leetcode_problems/tree/master/0739-daily-temperatures) |
 | [0845-longest-mountain-in-array](https://github.com/Ruthi007/Leetcode_problems/tree/master/0845-longest-mountain-in-array) |
 | [0912-sort-an-array](https://github.com/Ruthi007/Leetcode_problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ruthi007/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -166,4 +167,12 @@ Problems that I have solved on leetcode for practice...
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ruthi007/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Ruthi007/Leetcode_problems/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Ruthi007/Leetcode_problems/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
