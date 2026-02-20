@@ -77,6 +77,7 @@ Problems that I have solved on leetcode for practice...
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ruthi007/Leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ruthi007/Leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ruthi007/Leetcode_problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Ruthi007/Leetcode_problems/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Ruthi007/Leetcode_problems/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ruthi007/Leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -106,6 +107,7 @@ Problems that I have solved on leetcode for practice...
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ruthi007/Leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ruthi007/Leetcode_problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Ruthi007/Leetcode_problems/tree/master/0392-is-subsequence) |
 | [0845-longest-mountain-in-array](https://github.com/Ruthi007/Leetcode_problems/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ruthi007/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
