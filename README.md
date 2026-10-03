@@ -20,6 +20,7 @@ Problems that I have solved on leetcode for practice...
 | ------- |
 | [0001-two-sum](https://github.com/Ruthi007/Leetcode_problems/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Ruthi007/Leetcode_problems/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/Ruthi007/Leetcode_problems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Ruthi007/Leetcode_problems/tree/master/0036-valid-sudoku) |
 | [0055-jump-game](https://github.com/Ruthi007/Leetcode_problems/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Ruthi007/Leetcode_problems/tree/master/0057-insert-interval) |
@@ -120,6 +121,7 @@ Problems that I have solved on leetcode for practice...
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Ruthi007/Leetcode_problems/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ruthi007/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 ## Sliding Window
 |  |
