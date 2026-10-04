@@ -77,6 +77,7 @@ Problems that I have solved on leetcode for practice...
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ruthi007/Leetcode_problems/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Ruthi007/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ruthi007/Leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ruthi007/Leetcode_problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Ruthi007/Leetcode_problems/tree/master/0383-ransom-note) |
@@ -174,9 +175,14 @@ Problems that I have solved on leetcode for practice...
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ruthi007/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/Ruthi007/Leetcode_problems/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Ruthi007/Leetcode_problems/tree/master/0739-daily-temperatures) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Ruthi007/Leetcode_problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
