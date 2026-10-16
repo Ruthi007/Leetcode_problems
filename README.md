@@ -27,6 +27,7 @@ Problems that I have solved on leetcode for practice...
 | [0078-subsets](https://github.com/Ruthi007/Leetcode_problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Ruthi007/Leetcode_problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Ruthi007/Leetcode_problems/tree/master/0137-single-number-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ruthi007/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ruthi007/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Ruthi007/Leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Ruthi007/Leetcode_problems/tree/master/0260-single-number-iii) |
@@ -109,6 +110,7 @@ Problems that I have solved on leetcode for practice...
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ruthi007/Leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ruthi007/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ruthi007/Leetcode_problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Ruthi007/Leetcode_problems/tree/master/0392-is-subsequence) |
 | [0845-longest-mountain-in-array](https://github.com/Ruthi007/Leetcode_problems/tree/master/0845-longest-mountain-in-array) |
@@ -123,6 +125,7 @@ Problems that I have solved on leetcode for practice...
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Ruthi007/Leetcode_problems/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ruthi007/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ruthi007/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 ## Sliding Window
 |  |
