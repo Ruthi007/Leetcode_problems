@@ -37,6 +37,7 @@ Problems that I have solved on leetcode for practice...
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ruthi007/Leetcode_problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0560-subarray-sum-equals-k](https://github.com/Ruthi007/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Ruthi007/Leetcode_problems/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/Ruthi007/Leetcode_problems/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/Ruthi007/Leetcode_problems/tree/master/0739-daily-temperatures) |
 | [0845-longest-mountain-in-array](https://github.com/Ruthi007/Leetcode_problems/tree/master/0845-longest-mountain-in-array) |
 | [0912-sort-an-array](https://github.com/Ruthi007/Leetcode_problems/tree/master/0912-sort-an-array) |
@@ -132,6 +133,7 @@ Problems that I have solved on leetcode for practice...
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ruthi007/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ruthi007/Leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/Ruthi007/Leetcode_problems/tree/master/0643-maximum-average-subarray-i) |
 ## String Matching
 |  |
 | ------- |
