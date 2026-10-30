@@ -25,6 +25,7 @@ Problems that I have solved on leetcode for practice...
 | [0055-jump-game](https://github.com/Ruthi007/Leetcode_problems/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Ruthi007/Leetcode_problems/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Ruthi007/Leetcode_problems/tree/master/0078-subsets) |
+| [0128-longest-consecutive-sequence](https://github.com/Ruthi007/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Ruthi007/Leetcode_problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Ruthi007/Leetcode_problems/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ruthi007/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -94,6 +95,7 @@ Problems that I have solved on leetcode for practice...
 | ------- |
 | [0001-two-sum](https://github.com/Ruthi007/Leetcode_problems/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Ruthi007/Leetcode_problems/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/Ruthi007/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/Ruthi007/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Ruthi007/Leetcode_problems/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ruthi007/Leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -190,4 +192,8 @@ Problems that I have solved on leetcode for practice...
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ruthi007/Leetcode_problems/tree/master/0020-valid-parentheses) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ruthi007/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
