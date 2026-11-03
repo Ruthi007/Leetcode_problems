@@ -196,4 +196,12 @@ Problems that I have solved on leetcode for practice...
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ruthi007/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Ruthi007/Leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Ruthi007/Leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
