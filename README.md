@@ -86,6 +86,7 @@ Problems that I have solved on leetcode for practice...
 | [0383-ransom-note](https://github.com/Ruthi007/Leetcode_problems/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Ruthi007/Leetcode_problems/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ruthi007/Leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/Ruthi007/Leetcode_problems/tree/master/0443-string-compression) |
 ## Trie
 |  |
 | ------- |
@@ -116,6 +117,7 @@ Problems that I have solved on leetcode for practice...
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ruthi007/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ruthi007/Leetcode_problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Ruthi007/Leetcode_problems/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/Ruthi007/Leetcode_problems/tree/master/0443-string-compression) |
 | [0845-longest-mountain-in-array](https://github.com/Ruthi007/Leetcode_problems/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ruthi007/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
