@@ -22,6 +22,7 @@ Problems that I have solved on leetcode for practice...
 | [0014-longest-common-prefix](https://github.com/Ruthi007/Leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Ruthi007/Leetcode_problems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Ruthi007/Leetcode_problems/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/Ruthi007/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Ruthi007/Leetcode_problems/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Ruthi007/Leetcode_problems/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Ruthi007/Leetcode_problems/tree/master/0078-subsets) |
@@ -66,6 +67,7 @@ Problems that I have solved on leetcode for practice...
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ruthi007/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Ruthi007/Leetcode_problems/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/Ruthi007/Leetcode_problems/tree/master/0392-is-subsequence) |
 | [0845-longest-mountain-in-array](https://github.com/Ruthi007/Leetcode_problems/tree/master/0845-longest-mountain-in-array) |
@@ -114,6 +116,7 @@ Problems that I have solved on leetcode for practice...
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ruthi007/Leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Ruthi007/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ruthi007/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ruthi007/Leetcode_problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Ruthi007/Leetcode_problems/tree/master/0392-is-subsequence) |
@@ -185,10 +188,12 @@ Problems that I have solved on leetcode for practice...
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ruthi007/Leetcode_problems/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Ruthi007/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Ruthi007/Leetcode_problems/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ruthi007/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Ruthi007/Leetcode_problems/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
